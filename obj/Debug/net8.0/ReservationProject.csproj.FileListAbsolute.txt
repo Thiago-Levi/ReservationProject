@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Projetos\ReservationProject\bin\Debug\net8.0\ReservationProject.exe
+C:\Users\User\Documents\Projetos\ReservationProject\bin\Debug\net8.0\ReservationProject.deps.json
+C:\Users\User\Documents\Projetos\ReservationProject\bin\Debug\net8.0\ReservationProject.runtimeconfig.json
+C:\Users\User\Documents\Projetos\ReservationProject\bin\Debug\net8.0\ReservationProject.dll
+C:\Users\User\Documents\Projetos\ReservationProject\bin\Debug\net8.0\ReservationProject.pdb
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.AssemblyInfo.cs
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.dll
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\refint\ReservationProject.dll
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.pdb
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ReservationProject.genruntimeconfig.cache
+C:\Users\User\Documents\Projetos\ReservationProject\obj\Debug\net8.0\ref\ReservationProject.dll
